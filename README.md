@@ -57,6 +57,7 @@
     <img src="img/svg/bootstrap.svg" alt="bootstrap" height="40">
     <img src="img/svg/angular.svg" alt="angular" height="40">
     <img src="img/svg/nodejs.svg" alt="nodejs" height="40">
+    <img src="img/svg/react.svg" alt="react" height="40">
     <img src="img/svg/css3.svg" alt="css3" height="40">
     <img src="img/svg/html.svg" alt="html" height="40"> 
     <img src="img/svg/js.svg" alt="js" height="40">
