@@ -24,13 +24,13 @@
 </h5>
 
 <br/>
-<img align="right" height="300px" width="450px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExandnejI4NDdsMGZ2cnY1YW5zeWd5cTFkaTNkdXRvZ2swZGdndHlrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eVAvDEtEZscg5Ctobx/giphy.gif" />
+<img align="right" height="300px" width="350px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExandnejI4NDdsMGZ2cnY1YW5zeWd5cTFkaTNkdXRvZ2swZGdndHlrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eVAvDEtEZscg5Ctobx/giphy.gif" />
 
 <p align="center">
   <h3> I'm 20 years old Full-Stack developer from Vietnam.</h3>
 </p>
 
-- 🥀 Learning Javascript, React, NodeJS and 69 others.
+- 🥀 Learning Javascript, NodeJS and 69 others.
 
 - I do fullstack and a bit of everything :heart:
 
@@ -57,8 +57,8 @@
     <img src="img/svg/bootstrap.svg" alt="bootstrap" height="40">
     <img src="img/svg/angular.svg" alt="angular" height="40">
     <img src="img/svg/nodejs.svg" alt="nodejs" height="40">
-    <img src="img/svg/react.svg" alt="react" height="40">
     <img src="img/svg/css3.svg" alt="css3" height="40">
+    <img src="img/svg/sass.svg" alt="sass" height="40">
     <img src="img/svg/html.svg" alt="html" height="40"> 
     <img src="img/svg/js.svg" alt="js" height="40">
     <img src="img/svg/php.svg" alt="php" height="40">
