@@ -14,7 +14,7 @@
 
 <div align="center">
   <h3>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Ngo Duong | 💻 Full Stack Developer | 🛸 Vietnam 
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Ngo Duong | 💻 Backend Developer | 🛸 Vietnam 
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </h3>
 </div>
@@ -27,12 +27,12 @@
 <img align="right" height="300px" width="350px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExandnejI4NDdsMGZ2cnY1YW5zeWd5cTFkaTNkdXRvZ2swZGdndHlrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eVAvDEtEZscg5Ctobx/giphy.gif" />
 
 <p align="center">
-  <h3> I'm 20 years old Full-Stack developer from Vietnam.</h3>
+  <h3> I'm 20 years old Backend Developer from Vietnam.</h3>
 </p>
 
 - 🥀 Learning Javascript, NodeJS and 69 others.
 
-- I do fullstack and a bit of everything :heart:
+- I do backend and a bit of everything :heart:
 
 - All About living life at its best.
 
