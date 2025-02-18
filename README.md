@@ -41,7 +41,7 @@
 - 💡 Believer in lifelong learning and living life to the fullest.  
 
 <p align="center">
-  <h4> Full Stack </h4>
+  <h4> Backend </h4>
 </p>
 <br/>
 
