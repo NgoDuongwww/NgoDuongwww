@@ -5,7 +5,7 @@
 </div>
 
 <p align='center'>
-  <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/duy-duongw"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href=""><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>&nbsp;&nbsp;
   <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
   <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
@@ -55,29 +55,16 @@
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;"> 
     <img src="img/svg/hehim.svg" alt="hehim" height="40">
     <img src="img/svg/bootstrap.svg" alt="bootstrap" height="40">
-    <img src="img/svg/angular.svg" alt="angular" height="40">
     <img src="img/svg/nodejs.svg" alt="nodejs" height="40">
     <img src="img/svg/css3.svg" alt="css3" height="40">
     <img src="img/svg/sass.svg" alt="sass" height="40">
     <img src="img/svg/html.svg" alt="html" height="40"> 
     <img src="img/svg/js.svg" alt="js" height="40">
     <img src="img/svg/php.svg" alt="php" height="40">
-    <img src="img/svg/chrome.svg" alt="chrome" height="40">
-    <img src="img/svg/web.svg" alt="web" height="40">
-    <img src="img/svg/laravel.svg" alt="laravel" height="40">
     <img src="img/svg/npm.svg" alt="npm" height="40">
-    <img src="img/svg/office_365.svg" alt="office_365" height="40">
     <img src="img/svg/visualstudio_code.svg" alt="visualstudio_code" height="40">
     <img src="img/svg/pc.svg" alt="pc" height="40">
-    <img src="img/svg/gmail.svg" alt="gmail" height="40">
-    <img src="img/svg/instagram.svg" alt="instagram" height="40">
     <img src="img/svg/linkedin.svg" alt="linkedin" height="40">
-    <img src="img/svg/reddit.svg" alt="reddit" height="40">
-    <img src="img/svg/soundcloud.svg" alt="soundcloud" height="40">
-    <img src="img/svg/steam.svg" alt="steam" height="40">
-    <img src="img/svg/telegram.svg" alt="telegram" height="40">
-    <img src="img/svg/twitter.svg" alt="twitter" height="40">
-    <img src="img/svg/youtube.svg" alt="youtube" height="40">
   </div>
 </p>
 
