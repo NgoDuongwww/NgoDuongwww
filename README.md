@@ -27,10 +27,10 @@
 <img align="right" height="300px" width="350px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExandnejI4NDdsMGZ2cnY1YW5zeWd5cTFkaTNkdXRvZ2swZGdndHlrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eVAvDEtEZscg5Ctobx/giphy.gif" />
 
 <p align="center">
-  <h3> I'm 20 years old Backend Developer from Vietnam.</h3>
+  <h3> I'm 21 years old Backend Developer from Vietnam.</h3>
 </p>
 
-- 🥀 Learning Javascript, NodeJS and 69 others.
+- 🥀 Learning Javascript, NodeJS, PHP and 69 others.
 
 - I do backend and a bit of everything :heart:
 
@@ -74,7 +74,13 @@
 <a href="https://github.com/NgoDuongwww/web_sunao_pc/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NgoDuongwww&repo=web_sunao_pc&theme=tokyonight" />
-</a>    
+</a>
+
+ <!-- web_ba_tuyet -->
+<a href="https://github.com/NgoDuongwww/web_ba_tuyet">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NgoDuongwww&repo=web_ba_tuyet&theme=tokyonight" />
+</a>     
 
 <!-- web_trac_nghiem -->
 <a href="https://github.com/NgoDuongwww/web_trac_nghiem/">
